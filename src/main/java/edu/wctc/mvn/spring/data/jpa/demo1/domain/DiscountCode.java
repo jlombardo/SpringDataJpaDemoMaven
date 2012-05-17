@@ -6,8 +6,9 @@ import java.util.Collection;
 import javax.persistence.*;
 
 /**
- *
- * @author jlombardo
+ * A JPA entity class.
+ * 
+ * @author reverse-engineered from database table by Netbeans
  */
 @Entity
 @Table(name = "DISCOUNT_CODE")

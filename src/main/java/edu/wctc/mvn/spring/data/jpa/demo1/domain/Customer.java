@@ -4,8 +4,9 @@ import java.io.Serializable;
 import javax.persistence.*;
 
 /**
- *
- * @author jlombardo
+ * A JPA entity class.
+ * 
+ * @author reverse-engineered from database table by Netbeans
  */
 @Entity
 @Table(name = "CUSTOMER")
